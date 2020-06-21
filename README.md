@@ -1,3 +1,3 @@
 # dotfiles-new
 dotfiles from scratch
-test gpg
+test gp g
