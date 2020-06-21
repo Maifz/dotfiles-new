@@ -1,3 +1,3 @@
 # dotfiles-new
-dotfiles from scratch
-test gp g
+Im currently on building all my dotfiles from scratch.
+Detailed README will follow.

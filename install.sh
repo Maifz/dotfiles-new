@@ -1,6 +1,6 @@
 #!/bin/sh -eu
 
-#poxis compliant to get path of this sript
+#posix compliant to get path of this sript
 MY_PATH="$( cd "$(dirname "${0}")" ; pwd -P )"
 
 
