@@ -1,5 +1,4 @@
-[simple]
-full_text=Hello
-short_text=H
-#background=#FF0000
-color=#FFFFFF
+[weather]
+#color=#FFFFFF
+command=${HOME}/repo/dotfiles-new/i3blocks/weather.sh
+interval=60
